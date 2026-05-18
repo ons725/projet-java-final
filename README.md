@@ -1,1 +1,2 @@
+<h1>projet final java</h1>
 Mon projet consiste à développer une plateforme e-learning appelée EduPortal, permettant aux étudiants d’accéder à des cours interactifs, des leçons structurées et des quiz pour évaluer leurs connaissances. La plateforme intègre un système de suivi de progression, une base de données PostgreSQL, ainsi qu’un backend en FastAPI et un frontend moderne en React. Elle est entièrement déployée avec Docker pour faciliter son lancement et sa gestion.
